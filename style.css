@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: "Times New Roman", sans-serif;
+}
+
+body {
+    background-color: rgb(134, 136, 84);
+    color: rgb(19, 12, 56);
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    width: fit-content;
+    margin: 10px auto;
+    font-size: 46px;
+}
+
+h2 {
+    width: fit-content;
+    margin: 10px auto;
+    font-size: 36px;
+}
+
+ul {
+    width: fit-content;
+    margin: 10px auto;
+}
+
+li, p {
+    font-size: 25px;
+}
+
+p {
+    margin: 10px 20px;
+}
+
+.menu {
+    list-style: none;
+    text-align: center;
+}
+
+.step {
+    margin: 20px 35px;
+}
+
+.meal_img {
+    width: 500px;
+    height: auto;
+    margin: 10px auto;
+    display: block;
+}
+
+.home {
+    font-size: 20px;
+    margin: 10px;
+    margin-bottom: 25px;
+    color: red;
+}
